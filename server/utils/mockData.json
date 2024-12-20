@@ -1,0 +1,220 @@
+[
+  {
+    "title": "Taj Mahal",
+    "message": "The Taj Mahal is a magnificent white marble mausoleum in Agra, India. Built by Emperor Shah Jahan in memory of his wife Mumtaz Mahal, it is an epitome of Mughal architecture. The Taj Mahal's exquisite design, intricate carvings, and beautiful gardens make it a symbol of eternal love and one of the New Seven Wonders of the World.",
+    "selectedFile": "https://res.cloudinary.com/sagacity/image/upload/c_crop,h_2814,w_4241,x_0,y_0/c_limit,dpr_auto,f_auto,fl_lossy,q_80,w_1080/shutterstock_400068991_qpukq2.jpg",
+    "name": "John Doe",
+    "tags": ["India", "Historical", "Architecture", "Wonder of the World"]
+  },
+  {
+    "title": "Great Wall of China",
+    "message": "The Great Wall of China is an ancient series of walls and fortifications, stretching across northern China. Originally built to protect against invasions, it is now a symbol of Chinese strength and perseverance. The wall is an extraordinary feat of engineering and one of the most famous landmarks in the world.",
+    "selectedFile": "https://image.freepik.com/free-photo/great-wall-distant-view-compressed-towers-wall-segments_73503-482.jpg",
+    "name": "John Doe",
+    "tags": ["China", "Historical", "Architecture", "World Heritage Site"]
+  },
+  {
+    "title": "Eiffel Tower",
+    "message": "The Eiffel Tower, a global cultural icon of France, is one of the most recognizable structures in the world. Located in Paris, it was constructed as the entrance arch to the 1889 World's Fair. Its stunning iron lattice design and panoramic views make it a must-visit landmark.",
+    "selectedFile": "https://assets1.cbsnewsstatic.com/hub/i/r/2016/05/20/7077a5a5-0a8c-477b-b57d-049f17f597ed/thumbnail/620x413/64c331249efe4b339bbf28b6d8da44f5/istock000076107913large.jpg?v=6125856b135c6847bbc622c9704e0334",
+    "name": "John Doe",
+    "tags": ["Paris", "Europe", "Landmark", "Architecture"]
+  },
+  {
+    "title": "Statue of Liberty",
+    "message": "The Statue of Liberty is a colossal neoclassical sculpture on Liberty Island in New York Harbor. A gift from France, it symbolizes freedom and democracy. The statue's iconic design and historical significance make it one of the most cherished landmarks in the United States.",
+    "selectedFile": "https://www.planetware.com/wpimages/2020/08/top-attractions-in-the-world-new-york-statue-of-liberty.jpg",
+    "name": "John Doe",
+    "tags": ["New York", "USA", "Landmark"]
+  },
+  {
+    "title": "Machu Picchu",
+    "message": "Machu Picchu is a 15th-century Inca citadel located in the Eastern Cordillera of southern Peru. Known for its archaeological significance, it offers breathtaking views and insight into ancient Incan civilization. Its preserved ruins attract visitors from around the world, making it a top tourist destination.",
+    "selectedFile": "https://assets1.cbsnewsstatic.com/hub/i/r/2016/05/18/d56b7aa3-d469-40c1-8594-8ccfd0ede9d5/thumbnail/620x440/1739d414eb1d48433a0a6915f32698fc/istock000062675772large.jpg?v=6125856b135c6847bbc622c9704e0334",
+    "name": "John Doe",
+    "tags": ["Peru", "Historical", "Archaeology", "World Heritage Site"]
+  },
+  {
+    "title": "Colosseum",
+    "message": "The Colosseum in Rome, Italy, is an ancient amphitheater known for its gladiatorial battles and architectural grandeur. Built in AD 80, it remains one of the greatest works of Roman engineering and architecture. Today, it stands as a symbol of the enduring legacy of the Roman Empire.",
+    "selectedFile": "https://www.planetware.com/wpimages/2020/08/top-attractions-in-the-world-italy-rome-colosseum.jpg",
+    "name": "John Doe",
+    "tags": ["Rome", "Italy", "Historical", "Architecture"]
+  },
+  {
+    "title": "Sydney Opera House",
+    "message": "The Sydney Opera House in Australia is a multi-venue performing arts center, renowned for its unique design and cultural significance. Designed by Jørn Utzon, its sail-like structures make it an architectural marvel. It hosts numerous performances and events, making it a cultural hub.",
+    "selectedFile": "https://th.bing.com/th/id/R.fd4a571680425175779b5ff8a880cbae?rik=OQH7uFDartT09A&riu=http%3a%2f%2fupload.wikimedia.org%2fwikipedia%2fcommons%2f4%2f40%2fSydney_Opera_House_Close_up_HDR_Sydney_Australia.jpg&ehk=JYg4e%2ffMS7hNFUMD3zJFk6kD4hSu2z4jhYDxHMKK0Dw%3d&risl=&pid=ImgRaw&r=0",
+    "name": "John Doe",
+    "tags": ["Sydney", "Australia", "Architecture", "Cultural"]
+  },
+  {
+    "title": "Christ the Redeemer",
+    "message": "Christ the Redeemer is an iconic statue of Jesus Christ in Rio de Janeiro, Brazil. Overlooking the city from atop the Corcovado mountain, it symbolizes peace and Christianity. The statue's immense size and stunning location make it a prominent landmark and tourist attraction.",
+    "selectedFile": "https://assets3.cbsnewsstatic.com/hub/i/r/2016/05/20/48539274-bcaa-42f7-beea-dad63ad2a2e1/thumbnail/620x413/67b631f3ed5cbb469022470ac8420d9a/istock000047692550large.jpg?v=6125856b135c6847bbc622c9704e0334",
+    "name": "John Doe",
+    "tags": ["Brazil", "Landmark", "Symbol of Peace", "Tourist Attraction"]
+  },
+  {
+    "title": "Petra",
+    "message": "Petra is an archaeological city in Jordan, famous for its rock-cut architecture and water conduit system. Once the capital of the Nabataean Kingdom, it is now a UNESCO World Heritage Site. Its intricate facades and ancient ruins draw visitors from all over the world.",
+    "selectedFile": "https://www.planetware.com/wpimages/2020/08/top-attractions-in-the-world-jordan-petra.jpg",
+    "name": "John Doe",
+    "tags": ["Jordan", "Historical", "Archaeology", "World Heritage Site"]
+  },
+  {
+    "title": "Santorini",
+    "message": "Santorini is a beautiful island in the Aegean Sea, Greece, known for its white-washed buildings, blue domes, and stunning sunsets. Formed by a volcanic eruption, it offers breathtaking views and a unique geological landscape. Its picturesque scenery and vibrant culture attract tourists worldwide.",
+    "selectedFile": "https://lp-cms-production.imgix.net/2021-05/shutterstockRF_1563449509.jpg?auto=format&fit=crop&sharp=10&vib=20&ixlib=react-8.6.4&w=850&q=35&dpr=3",
+    "name": "John Doe",
+    "tags": ["Greece", "Island", "Scenic", "Tourist Attraction"]
+  },
+  {
+    "title": "Niagara Falls",
+    "message": "Niagara Falls is a group of massive waterfalls on the Niagara River, straddling the border between Canada and the United States. Known for their impressive size and power, the falls attract millions of visitors each year. The surrounding area offers various attractions, including boat tours and observation decks.",
+    "selectedFile": "https://d2eh9r2dxlfjaa.cloudfront.net/resize=width:1920/no_metadata/quality=value:33/compress/https://greatlakesguide.blob.core.windows.net/images/a2P0B00000ApyY4UAJ",
+    "name": "John Doe",
+    "tags": ["Canada", "Natural Wonder", "Waterfall", "Tourist Attraction"]
+  },
+  {
+    "title": "Burj Khalifa",
+    "message": "The Burj Khalifa in Dubai, UAE, is the tallest building in the world, known for its impressive height and modern architecture. Standing at 828 meters, it offers breathtaking views from its observation decks. The skyscraper is a symbol of Dubai's rapid development and futuristic vision.",
+    "selectedFile": "https://th.bing.com/th/id/OIP.nheBnUsw4vaFvC8eh1dS6gHaJ4?rs=1&pid=ImgDetMain",
+    "name": "John Doe",
+    "tags": ["Dubai", "Skyscraper", "Architecture", "Modern"]
+  },
+  {
+    "title": "Grand Canyon",
+    "message": "The Grand Canyon in Arizona, USA, is a breathtaking natural wonder known for its immense size and intricate rock formations. Carved by the Colorado River, it offers stunning vistas and outdoor activities. Its geological significance and natural beauty make it a top tourist destination.",
+    "selectedFile": "https://www.planetware.com/wpimages/2020/08/top-attractions-in-the-world-arizona-grand-canyon.jpg",
+    "name": "John Doe",
+    "tags": ["USA", "Natural Wonder", "Scenic", "Tourist Attraction"]
+  },
+  {
+    "title": "Mount Fuji",
+    "message": "Mount Fuji is an iconic volcano in Japan, known for its symmetrical shape and cultural significance. Standing at 3,776 meters, it is the highest mountain in Japan and a popular hiking destination. Its picturesque beauty and spiritual importance make it a symbol of Japan.",
+    "selectedFile": "https://www.planetware.com/wpimages/2022/02/world-top-rated-tourist-attractions-mount-fuji.jpg",
+    "name": "John Doe",
+    "tags": ["Japan", "Volcano", "Scenic", "Cultural"]
+  },
+
+  {
+    "title": "Angkor Wat",
+    "message": "Angkor Wat is a massive temple complex in Cambodia, known for its intricate architecture and historical importance. Built in the 12th century by the Khmer Empire, it is the largest religious monument in the world. Its stunning bas-reliefs and towering spires make it a symbol of Cambodia.",
+    "selectedFile": "https://assets3.cbsnewsstatic.com/hub/i/r/2016/05/18/6f1d0521-feb9-4ccb-b88c-afd9545e7183/thumbnail/620x413/5ee2f5fbafe04a7d3cb0270778f2e85c/istock000067505253large.jpg?v=6125856b135c6847bbc622c9704e0334",
+    "name": "John Doe",
+    "tags": ["Cambodia", "Historical", "Temple", "World Heritage Site"]
+  },
+  {
+    "title": "Pyramids of Giza",
+    "message": "The Pyramids of Giza in Egypt are ancient pyramid structures built as tombs for pharaohs. They are one of the Seven Wonders of the Ancient World, showcasing the engineering prowess of ancient Egyptian civilization. The Great Pyramid, in particular, is a marvel of construction and design.",
+    "selectedFile": "https://www.planetware.com/wpimages/2020/08/top-attractions-in-the-world-egypt-pyramids-giza.jpg",
+    "name": "John Doe",
+    "tags": ["Egypt", "Historical", "Archaeology", "Wonder of the World"]
+  },
+  {
+    "title": "Banff National Park",
+    "message": "Banff National Park, located in Alberta, Canada, is known for its stunning landscapes, lakes, and mountains. Established in 1885, it is Canada's oldest national park. The park offers a variety of outdoor activities, including hiking, skiing, and wildlife viewing, making it a popular destination.",
+    "selectedFile": "https://lp-cms-production.imgix.net/2019-06/79941051.jpg?fit=crop&q=40&sharp=10&vib=20&auto=format&ixlib=react-8.6.4",
+    "name": "John Doe",
+    "tags": ["Canada", "Natural Wonder", "Scenic", "Outdoor"]
+  },
+  {
+    "title": "Hagia Sophia",
+    "message": "Hagia Sophia in Istanbul, Turkey, is a historic mosque and museum, renowned for its massive dome and beautiful mosaics. Originally built as a cathedral in the Byzantine Empire, it was later converted into a mosque and now serves as a museum. Its architectural beauty and historical significance make it a must-see.",
+    "selectedFile": "https://assets2.cbsnewsstatic.com/hub/i/r/2016/05/20/5bce4c96-f26c-4fd2-8895-6521da115ad6/thumbnail/620x426/f59373029141e12d534e53506933acf8/istock000025980531large.jpg?v=6125856b135c6847bbc622c9704e0334",
+    "name": "John Doe",
+    "tags": ["Turkey", "Historical", "Architecture", "Religious"]
+  },
+  {
+    "title": "Golden Gate Bridge",
+    "message": "The Golden Gate Bridge is a famous suspension bridge in San Francisco, USA. Known for its striking red color and scenic views, it spans the Golden Gate Strait. Since its completion in 1937, it has become an iconic symbol of San Francisco and an engineering marvel.",
+    "selectedFile": "https://assets1.cbsnewsstatic.com/hub/i/r/2016/05/20/cfd7e3c2-93a7-4b98-9e30-011ec123c281/thumbnail/620x362/02fd7e07c6d8dfb27ff75d5045285eb8/istock000060660864large.jpg?v=6125856b135c6847bbc622c9704e0334",
+    "name": "John Doe",
+    "tags": ["Landmark", "Architecture", "Tourist Attraction"]
+  },
+  {
+    "title": "Great Barrier Reef",
+    "message": "The Great Barrier Reef is the world's largest coral reef system, located off the coast of Queensland, Australia. Known for its marine biodiversity, it is a UNESCO World Heritage Site. The reef's vibrant coral, diverse marine life, and crystal-clear waters attract snorkelers and divers from around the globe.",
+    "selectedFile": "https://th.bing.com/th/id/R.d0ef1593b922d491b1d89a70498432af?rik=9sOHmLpXkVUYKg&riu=http%3a%2f%2fmedia.cntraveler.com%2fphotos%2f5718f78980cf3e034f974595%2fmaster%2fpass%2fGettyImages-150968209.jpg&ehk=AOHpjdTh9%2b%2b86rNBYfF8nce66MY%2fAsumpHT2nh63JQU%3d&risl=&pid=ImgRaw&r=0",
+    "name": "John Doe",
+    "tags": ["Australia", "Natural Wonder", "Marine", "Tourist Attraction"]
+  },
+  {
+    "title": "Sagrada Familia",
+    "message": "The Sagrada Familia is a large unfinished Roman Catholic basilica in Barcelona, Spain, designed by architect Antoni Gaudí. Known for its unique architecture and intricate facades, it has been under construction since 1882. The basilica's towering spires and detailed carvings make it an architectural marvel.",
+    "selectedFile": "https://th.bing.com/th/id/R.5b9adec6a6ba6d42258d0bc510574181?rik=XWaY7oTUy86cgA&riu=http%3a%2f%2fupload.wikimedia.org%2fwikipedia%2fcommons%2ff%2fff%2fSagrada_Familia_02.jpg&ehk=NkuWuYoxkJe%2fVeMi9bK7FlBGwJoEa6Ik4MfsW5SQ0%2bo%3d&risl=1&pid=ImgRaw&r=0",
+    "name": "John Doe",
+    "tags": ["Spain", "Architecture", "Religious", "Landmark"]
+  },
+  {
+    "title": "Chichen Itza",
+    "message": "Chichen Itza is a large pre-Columbian archaeological site built by the Maya civilization, located in the Yucatán Peninsula of Mexico. Known for its impressive pyramid, El Castillo, it was a major cultural and political center. The site's well-preserved ruins offer insight into ancient Mayan society.",
+    "selectedFile": "https://www.planetware.com/wpimages/2022/02/world-top-rated-tourist-attractions-chichen-itza-mexico.jpg",
+    "name": "John Doe",
+    "tags": ["Mexico", "Historical", "Archaeology", "World Heritage Site"]
+  },
+  {
+    "title": "Yellowstone National Park",
+    "message": "Yellowstone National Park, located in the western United States, is known for its geothermal features, wildlife, and natural beauty. Established in 1872, it is the world's first national park. The park's attractions include geysers, hot springs, and diverse wildlife, making it a top destination for nature lovers.",
+    "selectedFile": "https://i.pinimg.com/originals/c1/01/91/c10191d737b5787c30c6d4deb6f6aa1c.jpg",
+    "name": "John Doe",
+    "tags": ["USA", "National Park", "Geothermal", "Wildlife"]
+  },
+  {
+    "title": "Louvre Museum",
+    "message": "The Louvre Museum in Paris, France, is the world's largest art museum and a historic monument. Known for its impressive collection of art and artifacts, it houses masterpieces such as the Mona Lisa and the Venus de Milo. The museum's vast galleries and rich history attract millions of visitors annually.",
+    "selectedFile": "https://www.planetware.com/wpimages/2022/02/world-top-rated-tourist-attractions-the-louvre-paris.jpg",
+    "name": "John Doe",
+    "tags": ["Paris", "Museum", "Art", "Cultural"]
+  },
+  {
+    "title": "Galápagos Islands",
+    "message": "The Galápagos Islands are an archipelago of volcanic islands in the Pacific Ocean, famous for their unique wildlife and Charles Darwin's study of evolution. The islands' diverse ecosystems and endemic species offer a fascinating glimpse into natural history and attract researchers and nature enthusiasts from around the world.",
+    "selectedFile": "https://i.pinimg.com/originals/22/1a/6b/221a6b6efb557593fb01f783709121a6.jpg",
+    "name": "John Doe",
+    "tags": ["Natural Wonder", "Wildlife", "Tourist Attraction"]
+  },
+  {
+    "title": "Alhambra",
+    "message": "The Alhambra is a palace and fortress complex located in Granada, Spain. Known for its stunning Islamic architecture and gardens, it was originally built as a small fortress in AD 889 and later converted into a royal palace. Its intricate design and historical significance make it a key tourist attraction.",
+    "selectedFile": "https://assets2.cbsnewsstatic.com/hub/i/r/2016/05/18/e4738a9f-b821-4472-9403-eb0c801392c1/thumbnail/620x413/ab01b2a58f60ba2ad8836edeb6d7f7f9/istock000021167703large.jpg?v=6125856b135c6847bbc622c9704e0334",
+    "name": "John Doe",
+    "tags": ["Spain", "Historical", "Architecture", "Landmark"]
+  },
+  {
+    "title": "Acropolis of Athens",
+    "message": "The Acropolis of Athens is an ancient citadel located on a rocky outcrop above the city of Athens, Greece. It contains the remains of several historic buildings, including the Parthenon. The Acropolis is a symbol of ancient Greek civilization and architectural brilliance, attracting tourists from around the globe.",
+    "selectedFile": "https://www.planetware.com/wpimages/2020/08/top-attractions-in-the-world-greece-athens-acropolis-moon.jpg",
+    "name": "John Doe",
+    "tags": ["Greece", "Historical", "Archaeology", "Landmark"]
+  },
+  {
+    "title": "Neuschwanstein Castle",
+    "message": "Neuschwanstein Castle is a 19th-century Romanesque Revival palace on a rugged hill above the village of Hohenschwangau in southwest Bavaria, Germany. Commissioned by Ludwig II of Bavaria, it served as an inspiration for Disneyland's Sleeping Beauty Castle. Its fairy-tale appearance makes it one of the most photographed castles in the world.",
+    "selectedFile": "https://th.bing.com/th/id/R.df6775b2a9ab2bd49f44cca6799513dd?rik=g5Xsm6uz5VxJlA&riu=http%3a%2f%2f2.bp.blogspot.com%2f-wyi6rzACHuY%2fUmLkkcDUpGI%2fAAAAAAAAB7s%2fIcSIXFkGu74%2fs1600%2fneuschwanstein-castle-romanesque-palace-rugged-hill-germany-europe-miracle1.jpg&ehk=nuH7VATA%2bnuOdmGapuxFVDgN00xuEXDZc1QB7qwjEK0%3d&risl=&pid=ImgRaw&r=0",
+    "name": "John Doe",
+    "tags": ["Germany", "Historical", "Architecture", "Landmark"]
+  },
+  {
+    "title": "Mount Kilimanjaro",
+    "message": "Mount Kilimanjaro is a dormant volcano in Tanzania and the highest mountain in Africa, known for its three volcanic cones. It attracts climbers and adventurers from around the world who seek to reach its snow-capped summit. The mountain's diverse ecosystems range from lush rainforests to alpine deserts.",
+    "selectedFile": "https://www.planetware.com/wpimages/2020/08/top-attractions-in-the-world-tanzania-mt-kilimanjaro.jpg",
+    "name": "John Doe",
+    "tags": ["Africa", "Natural Wonder", "Mountain", "Scenic"]
+  },
+  {
+    "title": "Venice Canals",
+    "message": "The Venice Canals are a network of canals that serve as the primary means of transportation in the city of Venice, Italy. Known for their scenic beauty and historic significance, the canals are lined with beautiful buildings and crossed by numerous bridges. Gondola rides offer a unique way to explore this enchanting city.",
+    "selectedFile": "https://cdn.britannica.com/63/153463-050-06B6270D/Grand-Canal-Venice.jpg",
+    "name": "John Doe",
+    "tags": ["Italy", "Historical", "Scenic", "Tourist Attraction"]
+  },
+  {
+    "title": "Iguazu Falls",
+    "message": "A stunning collection of waterfalls on the Iguazu River, located on the border of Argentina and Brazil.",
+    "selectedFile": "https://cdn.audleytravel.com/4071/2909/79/1012207-iguaz-parque-nacional-iguaz.jpg",
+    "name": "John Doe",
+    "tags": ["Argentina", "Natural Wonder", "Waterfall", "Scenic"]
+  }
+]
