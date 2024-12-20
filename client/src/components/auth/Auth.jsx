@@ -198,14 +198,14 @@ const Auth = () => {
           >
             Google Sign In
           </Button> */}
-
+{/* 
           <GoogleLogin
             style={useStyles.googleButton}
             theme="filled_blue"
             size="medium"
             onSuccess={(res) => googleSuccess(res)}
             onError={(error) => googleFailure(error)}
-          />
+          /> */}
           <Grid2
             container
             justifyContent="center"
